@@ -1,4 +1,4 @@
-# Battery-Doc-System
+# Battery-Doc System
 LCD display of battery voltage and temperature with a warning circuit
 # Features
 * The acquisition of the temperature of a battery on the interval of **[0°c 60°c]**
@@ -16,3 +16,11 @@ LCD display of battery voltage and temperature with a warning circuit
 * **8_Mhz** clock frequency based on Crystal circuit
 * Blinking Leds circuit
 # The Schematic Circuit
+![Capture d’écran 2021-01-26 174651](https://user-images.githubusercontent.com/61091193/105875872-9f11ae00-5ffe-11eb-9701-bf223a96cf29.png)
+## Software Tools
+* ISIS Proteus 8.9 Professional
+  >Circuit's Simulation
+* MikroC Pro for PIC
+  >Programming the PIC16F877
+## Research sources
+   How Heat and Loading affect Battery Life [batteryuniversity.com](https://batteryuniversity.com/learn/article/how_heat_and_harsh_loading_reduces_battery_life)
