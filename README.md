@@ -1,5 +1,5 @@
-# Battery-Doc System
-LCD display of battery voltage and temperature with a warning circuit
+# Battery Monitoring System
+LCD display of a battery voltage and temperature with a warning circuit
 # Features
 * The acquisition of the temperature of a battery on the interval of **[0°c 60°c]**
   >Using 10-bit converter A/D
